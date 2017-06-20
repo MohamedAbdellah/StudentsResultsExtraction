@@ -1,0 +1,24 @@
+ p p p p m e e
+g g g p ? e e
+e ? a p e a a
+g e g p g a a
+? p p p p p p
+a e p a a ? a
+p e g e ? a a
+g p p ? p e e
+p g p w m e e
+g e p p p a e
+p p p p p p e
+p e g w p e e
+p p p p p g e
+w g m f g p e
+g e p m p e g
+p p p m p g e
+p p g w p e e
+p p d g p d d
+p p m p d p g
+d d d d d d d
+d d d d d d ?
+p d p g g d d
+d p p p p d d
+p p p w p p e
